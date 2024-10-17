@@ -1,2 +1,2 @@
 # personal-accounting
-Web Application for personal accounting.
+Application for personal accounting
